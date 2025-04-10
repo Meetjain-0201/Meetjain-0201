@@ -17,7 +17,7 @@
 </p>
 
 ---
-![Hologram UI](https://media.giphy.com/media/3ohhwMfSgqxM3kJZ2o/giphy.gif)
+![AI/ML/Robotics Showcase](https://media.giphy.com/media/xyz123abc/giphy.gif)
 
 ### 🔥 **About Me**
 - 🎓 **MS in Artificial Intelligence** @ Northeastern University (GPA: 4.0/4.0)
