@@ -17,7 +17,7 @@
 </p>
 
 ---
-![AI Processing](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+![Hologram UI](https://media.giphy.com/media/3ohhwMfSgqxM3kJZ2o/giphy.gif)
 
 ### 🔥 **About Me**
 - 🎓 **MS in Artificial Intelligence** @ Northeastern University (GPA: 4.0/4.0)
