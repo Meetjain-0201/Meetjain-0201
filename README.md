@@ -28,8 +28,6 @@
 
 ---
 
-![AI Robot and Human Hands Touching](https://i.fbcd.co/products/original/touching-human-robot-hands-artificial-intelligence-technology-ae41eeca97467634cf1e9ffd062ecbd0d9534ae60ae52ead7a32acc1be0a1175.jpg)
-
 ### 🛠️ **My Tech Arsenal**
 #### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
