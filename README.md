@@ -50,10 +50,18 @@
 ### 🚀 **Featured Projects**
 | Project | Tech Stack | Key Achievement |
 |---------|------------|-----------------|
-| [**Autonomous Mars Rover**](https://github.com/your-link) | ROS, Python, YOLOv7, LiDAR | Led 45-engineer team, 95% path-planning accuracy |
-| [**OCR for Historical Newspapers**](https://github.com/your-link) | OpenCV, EasyOCR, BERT | 85% accuracy, 7% CER |
-| [**GAN-Powered Crisis Dashboard**](https://github.com/your-link) | Streamlit, MongoDB, GAN | Real-time updates, MLH Winner |
-| [**Medical Imaging Classifier**](https://github.com/your-link) | TensorFlow, ResNet50 | 88% accuracy, 20% faster inference |
+| [**Autonomous Mars Rover**](https://github.com/your-link) | ROS, Python, YOLOv7, LiDAR | Led 45-engineer team, 95% path-planning accuracy, 20% Kalman Filter improvement |
+| [**OCR for Historical Newspapers**](https://github.com/your-link) | OpenCV, EasyOCR, BERT | 85% accuracy, 7% CER, digitized 1,000+ documents |
+| [**GAN-Powered Crisis Dashboard**](https://github.com/your-link) | Streamlit, MongoDB, GAN | MLH Winner: Real-time updates every 3s for 5 cities |
+| [**Medical Imaging Classifier**](https://github.com/your-link) | TensorFlow, ResNet50 | 88% accuracy, 20% faster inference via Grid Search |
+| [**Seq2Seq Text Summarization**](https://github.com/your-link) | LSTM, Attention, BERTScore | ROUGE-1 (Recall): 42.5, BERTScore: 0.87/1.0 |
+| [**Sales Forecasting Chatbot**](https://github.com/your-link) | Prophet Model, Flask, MongoDB | 8.2% MAPE for 30-day forecasts, 80% workflow automation |
+| [**Business Card OCR Pipeline**](https://github.com/your-link) | PyTesseract, NLP, OpenCV | 95% text accuracy, F1: 0.92 (entities), processed 5K+/month |
+| [**Autonomous Vehicle Racing**](https://github.com/your-link) | Q-Learning, CarRacing-v3 | Reward-shaping for obstacle avoidance & speed boosts |
+| [**Amazon Review Analysis**](https://github.com/your-link) | LDA, Sentiment Analysis, TF-IDF | Analyzed 568K+ reviews, regression models for helpfulness |
+| [**Multi-Calendar System**](https://github.com/your-link) | Java, MVC, Observer Pattern | Timezone support, recurring events, CSV import/export |
+| [**7-DoF Surgical Robot IK**](https://github.com/your-link) | ROS, FOC, PID | <10mm accuracy for real-time hand-gesture mimicry |
+| [**Self-Docking Charging Bot**](https://github.com/your-link) | ROS, Gazebo, SLAM | 5cm docking accuracy, 15% efficiency boost |
 
 ---
 
@@ -73,12 +81,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Meetjain-0201&label=Profile%20Views&color=blueviolet&style=flat" alt="Meet's Profile Views" />
 </p>
-```
-
----
-
-### ✨ **Key Features**
-1. **Dynamic Badges**: Shields.io badges for interactive tech stack visualization.  
-2. **Project Showcase**: Table format for clean project highlights with links (replace `your-link`).  
-3. **GitHub Stats**: Auto-updated stats cards for commits, streaks, and languages.  
-4. **Mobile-Friendly**: Responsive design for all devices.  
