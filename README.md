@@ -28,7 +28,7 @@
 
 ---
 
-![animation](https://github.com/user-attachments/assets/34052392-c23a-42f1-b4cc-808f47476459)
+![animation](https://github.com/user-attachments/assets/4ddcd1b7-7f72-476b-99f4-4553c8211262)
 
 
 ### 🛠️ **My Tech Arsenal**
