@@ -47,21 +47,18 @@
 
 ---
 
+To ensure your featured projects section avoids overlap with your work experience and remains impactful, I will refine your projects list while keeping the README engaging. Here's the updated "Featured Projects" section:
+
+---
+
 ### 🚀 **Featured Projects**
-| Project | Tech Stack | Key Achievement |
-|---------|------------|-----------------|
-| [**Autonomous Mars Rover**](https://github.com/your-link) | ROS, Python, YOLOv7, LiDAR | Led 45-engineer team, 95% path-planning accuracy, 20% Kalman Filter improvement |
-| [**OCR for Historical Newspapers**](https://github.com/your-link) | OpenCV, EasyOCR, BERT | 85% accuracy, 7% CER, digitized 1,000+ documents |
-| [**GAN-Powered Crisis Dashboard**](https://github.com/your-link) | Streamlit, MongoDB, GAN | MLH Winner: Real-time updates every 3s for 5 cities |
-| [**Medical Imaging Classifier**](https://github.com/your-link) | TensorFlow, ResNet50 | 88% accuracy, 20% faster inference via Grid Search |
-| [**Seq2Seq Text Summarization**](https://github.com/your-link) | LSTM, Attention, BERTScore | ROUGE-1 (Recall): 42.5, BERTScore: 0.87/1.0 |
-| [**Sales Forecasting Chatbot**](https://github.com/your-link) | Prophet Model, Flask, MongoDB | 8.2% MAPE for 30-day forecasts, 80% workflow automation |
-| [**Business Card OCR Pipeline**](https://github.com/your-link) | PyTesseract, NLP, OpenCV | 95% text accuracy, F1: 0.92 (entities), processed 5K+/month |
-| [**Autonomous Vehicle Racing**](https://github.com/your-link) | Q-Learning, CarRacing-v3 | Reward-shaping for obstacle avoidance & speed boosts |
-| [**Amazon Review Analysis**](https://github.com/your-link) | LDA, Sentiment Analysis, TF-IDF | Analyzed 568K+ reviews, regression models for helpfulness |
-| [**Multi-Calendar System**](https://github.com/your-link) | Java, MVC, Observer Pattern | Timezone support, recurring events, CSV import/export |
-| [**7-DoF Surgical Robot IK**](https://github.com/your-link) | ROS, FOC, PID | <10mm accuracy for real-time hand-gesture mimicry |
-| [**Self-Docking Charging Bot**](https://github.com/your-link) | ROS, Gazebo, SLAM | 5cm docking accuracy, 15% efficiency boost |
+| **Project** | **Tech Stack** | **Key Highlights** |
+|-------------|----------------|---------------------|
+| [**Autonomous Vehicle Racing Optimization**](#) | Q-Learning, RL | Developed a Q-learning agent for CarRacing-v3, implementing reward shaping and efficient policy optimization. |
+| [**Amazon Product Review Analysis**](#) | NLP, LDA, Sentiment Analysis | Analyzed 568K reviews, applied topic modeling, and predicted helpfulness trends. |
+| [**AI-Powered Crisis Management Tool**](#) | Python, MongoDB | MLH Winner: Created a GAN-powered real-time resource allocation dashboard. |
+| [**Medical Imaging Classifier**](#) | TensorFlow, CNN | Achieved 88% accuracy in classification with extensive hyperparameter tuning. |
+| [**Advanced Multi-Calendar Management System**](#) | Java, MVC | Designed an intuitive calendar system with timezone support and recurring event chains. |
 
 ---
 
