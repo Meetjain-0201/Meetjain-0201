@@ -21,9 +21,9 @@
 
 ### 🔥 **About Me**
 - 🎓 **MS in AI** @ Northeastern University (GPA: 4.0/4.0) | Ex-**Autonomous Robotics Lead** @ Mars Rover Manipal ($20K project).  
-- 🤖 **Designed** ROS-based UGVs, **Deployed** NLP/OCR pipelines (95% accuracy), **Scaled** ML systems (8.2% MAPE).  
+- 🤖 **Designed** ROS-based UGVs, **Deployed** NLP/OCR pipelines, **Scaled** ML systems.  
 - 🏆 **Hackathon Champion**: Built AI-powered dashboards (GAN + real-time MongoDB).  
-- 📝 **Published Researcher**: IoT & Pandemic Resilience ([Journal of Telematics](https://example.com)).  
+- 📝 **Published Researcher**: IoT & Pandemic Resilience ([Journal of Telematics](https://www.sciencedirect.com/science/article/pii/S2772503024000641).  
 
 ---
 
