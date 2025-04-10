@@ -28,8 +28,7 @@
 
 ---
 
-![touching-human-robot-hands-artificial-intelligence-technology-ae41eeca97467634cf1e9ffd062ecbd0d9534ae60ae52ead7a32acc1be0a1175](https://github.com/user-attachments/assets/815ec9f1-adf6-43b7-ad08-55692215d65b)
-
+![AI Robot and Human Hands Touching](https://i.fbcd.co/products/original/touching-human-robot-hands-artificial-intelligence-technology-ae41eeca97467634cf1e9ffd062ecbd0d9534ae60ae52ead7a32acc1be0a1175.jpg)
 
 ### 🛠️ **My Tech Arsenal**
 #### **Languages & Frameworks**
