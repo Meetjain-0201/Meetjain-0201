@@ -1,29 +1,33 @@
-<h1 align="center">Hi 👋, I'm Meet Jain</h1>
+<h1 align="center">👋 Welcome to My GitHub! I'm Meet Jain 🚀</h1>
 <h3 align="center">AI & Robotics Engineer | ML Developer | Open-Source Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/meetjain0201" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="meetjain0201" />
+  <a href="https://linkedin.com/in/meetjain0201" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="meetjain0201" />
   </a>
-  <a href="https://leetcode.com/meet0201" target="blank">
+  <a href="https://leetcode.com/meet0201" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="meet0201" />
   </a>
   <a href="mailto:meetjain0201@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E91E63&center=true&vCenter=true&width=600&lines=Passionate+about+AI%2C+Robotics+%26+Open+Source!;Let%E2%80%99s+build+something+amazing+together!;Explore+my+projects+below+%F0%9F%91%87">
 </p>
 
 ---
 
-### 🔥 **Highlights**
-- **🎓 MS in AI @ Northeastern University** (GPA: 4.0/4.0) | Ex-**Autonomous Robotics Lead** @ Mars Rover Manipal ($20K project)  
-- **🤖 Built** ROS-based UGVs, **🧠 Deployed** NLP/OCR pipelines (95% accuracy), **📊 Scaled** ML systems (8.2% MAPE forecasting)  
-- **🏆 MLH Hackathon Winner** for AI-powered crisis management tool (GAN + real-time MongoDB)  
-- **📝 Published Researcher** in IoT & Pandemic Resilience ([Journal of Telematics](https://example.com))  
+### 🔥 **About Me**
+- 🎓 **MS in AI** @ Northeastern University (GPA: 4.0/4.0) | Ex-**Autonomous Robotics Lead** @ Mars Rover Manipal ($20K project).  
+- 🤖 **Designed** ROS-based UGVs, **Deployed** NLP/OCR pipelines (95% accuracy), **Scaled** ML systems (8.2% MAPE).  
+- 🏆 **Hackathon Champion**: Built AI-powered dashboards (GAN + real-time MongoDB).  
+- 📝 **Published Researcher**: IoT & Pandemic Resilience ([Journal of Telematics](https://example.com)).  
 
 ---
 
-### 🛠️ **Tech Stack**
+### 🛠️ **My Tech Arsenal**
 #### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -47,10 +51,6 @@
 
 ---
 
-To ensure your featured projects section avoids overlap with your work experience and remains impactful, I will refine your projects list while keeping the README engaging. Here's the updated "Featured Projects" section:
-
----
-
 ### 🚀 **Featured Projects**
 | **Project** | **Tech Stack** | **Key Highlights** |
 |-------------|----------------|---------------------|
@@ -66,6 +66,10 @@ To ensure your featured projects section avoids overlap with your work experienc
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Meetjain-0201&show_icons=true&theme=radical" alt="Meet's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meetjain-0201&theme=radical" alt="Meet's Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Meetjain-0201&theme=react-dark" alt="Meet's Contribution Graph" />
 </p>
 
 ---
