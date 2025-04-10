@@ -1,13 +1,84 @@
 <h1 align="center">Hi 👋, I'm Meet Jain</h1>
-<h3 align="center">A passionate AI developer</h3>
+<h3 align="center">AI & Robotics Engineer | ML Developer | Open-Source Enthusiast</h3>
 
-- 📫 How to reach me **meetjain0201@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/meetjain0201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meetjain0201" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/meet0201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meet0201" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/meetjain0201" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="meetjain0201" />
+  </a>
+  <a href="https://leetcode.com/meet0201" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="meet0201" />
+  </a>
+  <a href="mailto:meetjain0201@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+### 🔥 **Highlights**
+- **🎓 MS in AI @ Northeastern University** (GPA: 4.0/4.0) | Ex-**Autonomous Robotics Lead** @ Mars Rover Manipal ($20K project)  
+- **🤖 Built** ROS-based UGVs, **🧠 Deployed** NLP/OCR pipelines (95% accuracy), **📊 Scaled** ML systems (8.2% MAPE forecasting)  
+- **🏆 MLH Hackathon Winner** for AI-powered crisis management tool (GAN + real-time MongoDB)  
+- **📝 Published Researcher** in IoT & Pandemic Resilience ([Journal of Telematics](https://example.com))  
+
+---
+
+### 🛠️ **Tech Stack**
+#### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+#### **ML & Robotics**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv7](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![SLAM](https://img.shields.io/badge/SLAM-000000?style=for-the-badge&logo=robot&logoColor=white)
+![Kalman Filter](https://img.shields.io/badge/Kalman_Filter-8A2BE2?style=for-the-badge)
+
+#### **Tools & Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 **Featured Projects**
+| Project | Tech Stack | Key Achievement |
+|---------|------------|-----------------|
+| [**Autonomous Mars Rover**](https://github.com/your-link) | ROS, Python, YOLOv7, LiDAR | Led 45-engineer team, 95% path-planning accuracy |
+| [**OCR for Historical Newspapers**](https://github.com/your-link) | OpenCV, EasyOCR, BERT | 85% accuracy, 7% CER |
+| [**GAN-Powered Crisis Dashboard**](https://github.com/your-link) | Streamlit, MongoDB, GAN | Real-time updates, MLH Winner |
+| [**Medical Imaging Classifier**](https://github.com/your-link) | TensorFlow, ResNet50 | 88% accuracy, 20% faster inference |
+
+---
+
+### 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Meetjain-0201&show_icons=true&theme=radical" alt="Meet's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meetjain-0201&theme=radical" alt="Meet's Streak" width="48%" />
+</p>
+
+---
+
+### 📫 **Let’s Collaborate!**
+- 🔍 Open to **AI/ML research, robotics, and hackathons**  
+- 💬 Ask me about **sensor fusion, NLP, or reinforcement learning**  
+- 📧 Reach me: **meetjain0201@gmail.com**  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Meetjain-0201&label=Profile%20Views&color=blueviolet&style=flat" alt="Meet's Profile Views" />
+</p>
+```
+
+---
+
+### ✨ **Key Features**
+1. **Dynamic Badges**: Shields.io badges for interactive tech stack visualization.  
+2. **Project Showcase**: Table format for clean project highlights with links (replace `your-link`).  
+3. **GitHub Stats**: Auto-updated stats cards for commits, streaks, and languages.  
+4. **Mobile-Friendly**: Responsive design for all devices.  
