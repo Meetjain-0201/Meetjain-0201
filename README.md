@@ -1,6 +1,5 @@
 <h1 align="center">👋 Welcome to My GitHub! I'm Meet Jain 🚀</h1>
 <h3 align="center">AI & Robotics Engineer | ML Developer | Open-Source Enthusiast</h3>
-![AI Processing](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 <p align="center">
   <a href="https://linkedin.com/in/meetjain0201" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="meetjain0201" />
@@ -18,6 +17,7 @@
 </p>
 
 ---
+![AI Processing](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
 ### 🔥 **About Me**
 - 🎓 **MS in Artificial Intelligence** @ Northeastern University (GPA: 4.0/4.0)
