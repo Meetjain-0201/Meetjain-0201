@@ -91,12 +91,12 @@
 
 ### 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meetjain-0201&show_icons=true&theme=radical" alt="Meet's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meetjain-0201&theme=radical" alt="Meet's Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Meetjain-0201&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meetjain-0201&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Meetjain-0201&theme=react-dark" alt="Meet's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meetjain-0201&theme=react-dark&hide_border=true" />
 </p>
 
 ---
