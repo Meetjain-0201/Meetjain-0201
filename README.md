@@ -28,6 +28,9 @@
 
 ---
 
+![animation](https://github.com/user-attachments/assets/34052392-c23a-42f1-b4cc-808f47476459)
+
+
 ### 🛠️ **My Tech Arsenal**
 #### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
