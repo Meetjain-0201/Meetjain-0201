@@ -19,7 +19,7 @@
 ---
 
 ### 🔥 **About Me**
-- 🎓 **MS in Artificial Intelligence** @ Northeastern University (GPA: 3.92/4.0)
+- 🎓 **MS in Artificial Intelligence** @ Northeastern University (GPA: 3.95/4.0)
 - 🎓 **Btech in Mechatronics, Robotics and Automation** @ Manipal Institute of Technology (GPA: 8.2/10.0)
 - 🤖 **Designed** ROS-based UGVs, **Deployed** NLP/OCR pipelines, **Scaled** ML systems.  
 - 🏆 **Hackathon Champion**: Built AI-powered dashboards (GAN + real-time MongoDB).  
