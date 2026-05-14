@@ -21,7 +21,7 @@
 
 ## `$ whoami`
 
-> MS AI · Robotics @ Northeastern &nbsp;`3.95 GPA`  
+> MS AI · Robotics @ Northeastern &nbsp;`3.96 GPA`  
 > BTech Mechatronics · Manipal Institute of Technology  
 > Surgical robotics · SLAM research · autonomous navigation · humanoid control
 
